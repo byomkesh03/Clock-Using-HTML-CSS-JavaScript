@@ -50,7 +50,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## Acknowledgments
 
 - This analog clock was inspired by traditional analog clocks.
-- Special thanks to the contributors of [Library/Tool/Framework], which were used in this project.
 
 ## Contact
 
