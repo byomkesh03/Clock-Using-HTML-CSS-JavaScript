@@ -10,7 +10,7 @@ This is a responsive analog clock created using HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can see the live demo of the analog clock [here](https://example.com).
+You can see the live demo of the analog clock [here](https://byomkesh03.github.io/Clock-Using-HTML-CSS-JavaScript/).
 
 ## Features
 
