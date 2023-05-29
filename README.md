@@ -47,10 +47,6 @@ You can customize the analog clock by modifying the CSS styles in the `style.css
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 
 - This analog clock was inspired by traditional analog clocks.
