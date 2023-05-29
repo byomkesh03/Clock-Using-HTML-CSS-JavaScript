@@ -25,7 +25,7 @@ Include any relevant screenshots of the analog clock here.
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: git clone https://github.com/your-username/analog-clock.git
 
 
 
