@@ -68,6 +68,4 @@ If you have any questions, suggestions, or feedback, feel free to contact me at 
 
 
 
-
-
 * click on the link to view the project :- https://byomkesh03.github.io/Clock-Using-HTML-CSS-JavaScript/
